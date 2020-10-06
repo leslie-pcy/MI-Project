@@ -10,12 +10,12 @@
       <ul>
         <router-link to="/shouye/tuijian" tag="li">推荐</router-link>
         <router-link to="/shouye/shouji" tag="li">手机</router-link>
-        <router-link to="/shouye/shouji" tag="li">智能</router-link>
-        <router-link to="/shouye/shouji" tag="li">电视</router-link>
-        <router-link to="/shouye/shouji" tag="li">电脑</router-link>
+        <router-link to="/shouye/zhineng" tag="li">智能</router-link>
+        <router-link to="/shouye/dianshi" tag="li">电视</router-link>
+        <router-link to="/shouye/diannao" tag="li">电脑</router-link>
         <router-link to="/shouye/quanmianping" tag="li">全面屏</router-link>
-        <router-link to="/shouye/shouji" tag="li">生活周边</router-link>
-        <router-link to="/shouye/shouji" tag="li">盒子</router-link>
+        <router-link to="/shouye/zhoubian" tag="li">生活周边</router-link>
+        <router-link to="/shouye/hezi" tag="li">盒子</router-link>
         <router-link to="/shouye/yishu" tag="li">艺术</router-link>
       </ul>
     </div>
