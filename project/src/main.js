@@ -31,6 +31,10 @@ Vue.use(CellGroup);
 import { Form } from 'vant';
 Vue.use(Form);
 
+// 提示
+import { Toast } from 'vant';
+Vue.use(Toast);
+
 
 Vue.config.productionTip = false
 
